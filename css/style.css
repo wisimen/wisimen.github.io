@@ -268,7 +268,10 @@ body:after {
 .site-logo {
   font-size: 20px;
   font-weight: bold; }
-
+.site-logo img{
+  padding: 10px 32px;
+  height: 110px; }
+  
 .site-navbar {
   margin-bottom: 0px;
   z-index: 1999;
